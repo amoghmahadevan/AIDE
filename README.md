@@ -141,6 +141,10 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+## Future Plans
+
+I intend to add an AI Image Captioning Tool using the BLIP Model created by Salesforce. This feature allows users to upload images and receive AI-generated captions of what's happening in the image.
+
 ## Authors
 
 [@amoghmahadevan](https://github.com/amoghmahadevan)
